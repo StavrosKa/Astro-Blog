@@ -33,11 +33,9 @@ description: "SEO description (50-160 chars)"
 publishDate: "17 June 2026"
 tags: ["tech", "thoughts"]
 draft: false
-
 ---
-## 🗺️ Site Map
 
-```
+### 4. Site Map
 /
 ├── 🏠 Home
 │   ├── 📌 Pinned Posts
@@ -64,4 +62,3 @@ draft: false
 ├── 🔍 Search
 │
 └── 🌙 Theme Toggle
-```
