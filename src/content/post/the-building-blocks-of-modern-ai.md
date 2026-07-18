@@ -1,7 +1,7 @@
 ---
 title: The Building Blocks of Modern AI
 description: Discover the core technologies that power today's AI models and intelligent agents.
-publishDate: "2026-06-25T08:00:00Z"
+publishDate: "2026-06-27T08:00:00Z"
 tags: [transformers, AI, python, LLM]
 draft: false
 ---

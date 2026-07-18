@@ -1,7 +1,7 @@
 ---
 title: AI Ethics and Autonomy
 description: How two real-world AI incidents reshaped the conversation around ethics, accountability, and regulation.
-publishDate: "2026-06-27T08:00:00Z"
+publishDate: "2026-06-29T08:00:00Z"
 tags: [AI, ethics, autonomy, regulation, deepfake]
 draft: false
 ---

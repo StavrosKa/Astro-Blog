@@ -1,15 +1,13 @@
 ---
-title: Build, learn repeat..
+title: Thinking in a loop
 description: Devs conversation.
-publishDate: "2026-06-29T08:00:00Z"
-tags: [build, learn, repeat]
+publishDate: "2026-06-26T08:00:00Z"
+tags: [devs, wayof, thinking, pinned]
 draft: false
 pinned: true
 ---
 
-## while(alive) { build(); learn(); repeat(); }
-
-People think developers spend all day writing code.
+## People think developers spend all day writing code
 
 Reality?
 
@@ -52,7 +50,7 @@ Every week there’s a new framework, a faster model, or a shiny tool promising 
 
 Most won’t.
 
-## So here’s my favorite rule:
+## So here’s a rule:
 
 ```python
 if (project.isPerfect())

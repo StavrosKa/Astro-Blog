@@ -1,11 +1,12 @@
 ---
-title: "How to Set Up a Free Professional Email with Cloudflare (No Paid Tools Required)"
+title: "How to Set Up a Free Professional Email with Cloudflare"
 description: "Step-by-step guide on how to create a free professional email like hello@yourdomain.com using Cloudflare Email Routing and Gmail. No hosting costs required."
-pubDate: 2026-07-02
-tags: ["cloudflare", "email", "dns", "astro", "web-development"]
+publishDate: "2026-07-04T08:00:00Z"
+tags: [cloudflare, email, dns, web-development, routing]
+draft: false
 ---
 
-## 📬 How to Set Up a Free Professional Email with Cloudflare (No Paid Tools Required)
+> *"You can set up a fully working professional email using Cloudflare Email Routing."*
 
 If you own a website, at some point you’ll want a professional email like:
 
@@ -18,8 +19,6 @@ Instead of using a personal Gmail address.
 Most people think this requires paid services like Google Workspace or Zoho Mail.
 
 It doesn’t.
-
-You can set up a **fully working professional email for free using Cloudflare Email Routing**.
 
 This is exactly how I set it up for my own site: `stavroskarelis.com`.
 

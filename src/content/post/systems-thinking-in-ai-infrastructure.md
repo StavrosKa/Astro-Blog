@@ -1,7 +1,7 @@
 ---
 title: Systems Thinking in AI Infrastructure
 description: Why optimizing individual components is not enough when building modern AI infrastructure.
-publishDate: "2026-06-26T08:00:00Z"
+publishDate: "2026-06-28T08:00:00Z"
 tags: [AI, technology, systems thinking, machine learning]
 draft: false
 ---
