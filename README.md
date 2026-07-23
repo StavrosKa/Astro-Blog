@@ -26,15 +26,14 @@ Here is a quick cheat sheet for when I want to update the site:
 
 ### 3. Frontmatter Template
 When creating a new blog post, use this snippet at the very top of the file:
+
 ```markdown
----
 title: "Post Title (Max 60 chars)"
 description: "SEO description (50-160 chars)"
 publishDate: "17 June 2026"
 tags: ["tech", "thoughts"]
 draft: false
----
-
+```
 ### 4. Site Map
 /
 ├── 🏠 Home
