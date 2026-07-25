@@ -6,7 +6,7 @@ Welcome to the repository of my personal blog. This project is built using **Ast
 
 ## 🔗 Quick Links
 
-* **Live Website:** [👉 Replace this with your live Netlify or Porkbun URL]
+* **Live Website:** [👉 https://stavroskarelis.com]
 * **Deployment Dashboard:** [Netlify App](https://app.netlify.com)
 * **Domain Manager:** [Porkbun](https://porkbun.com)
 
@@ -35,7 +35,7 @@ tags: ["tech", "thoughts"]
 draft: false
 ```
 ### 4. Site Map
-/
+
 ├── 🏠 Home
 │   ├── 📌 Pinned Posts
 │   ├── 📝 Latest Posts
