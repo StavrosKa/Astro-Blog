@@ -1,15 +1,18 @@
 ---
-title: Thinking in a loop
-description: Devs conversation.
+title: Why Developers Overthink Everything
+description: A humorous look at the modern developer mindset, overthinking, endless rewrites, and why shipping matters more than perfect code.
 publishDate: "2026-06-26T08:00:00Z"
-tags: [devs, wayof, thinking, pinned]
+tags: [software-development, productivity, developers, wayof, thinking, pinned]
 draft: false
 pinned: true
 ---
 
-## People think developers spend all day writing code
+> *"People think developers spend all day writing code."*
 
-Reality?
+## Reality?
+
+Writing code is only a small part of the job.
+Most of the time we're thinking, experimenting, deleting, rebuilding... and wondering if we should start over.
 
 About 20% coding.
 
@@ -19,7 +22,7 @@ The other 80% looks like this:
 🤔 There must be a better way...
 🤨 Should I switch frameworks?
 😅 Maybe I'll rewrite everything.
-☕ Coffee.
+☕ Coffee Break.
 ```
 
 Then AI joins the conversation.

@@ -36,6 +36,7 @@ draft: false
 ```
 ### 4. Site Map
 
+```markdown
 ├── 🏠 Home
 │   ├── 📌 Pinned Posts
 │   ├── 📝 Latest Posts
@@ -61,3 +62,4 @@ draft: false
 ├── 🔍 Search
 │
 └── 🌙 Theme Toggle
+```
