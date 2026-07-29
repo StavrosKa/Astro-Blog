@@ -55,9 +55,7 @@ draft: false
 │
 ├── 📒 Notes
 │   ├── Ideas
-│   ├── References
-│   ├── Snippets
-│   └── Learning Journal
+│   └── References
 │
 ├── 🔍 Search
 │

@@ -9,10 +9,12 @@ pinned: true
 
 > *"People think developers spend all day writing code."*
 
-## Reality?
-
 Writing code is only a small part of the job.
 Most of the time we're thinking, experimenting, deleting, rebuilding... and wondering if we should start over.
+
+---
+
+## Reality?
 
 About 20% coding.
 
@@ -50,8 +52,9 @@ const developer = {
 ```
 
 Every week there’s a new framework, a faster model, or a shiny tool promising to change everything.
-
 Most won’t.
+
+---
 
 ## So here’s a rule:
 
