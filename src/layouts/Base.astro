@@ -6,7 +6,8 @@ import SkipLink from "@/components/SkipLink.astro";
 import ThemeProvider from "@/components/ThemeProvider.astro";
 import { siteConfig } from "@/site.config";
 import type { SiteMeta } from "@/types";
-import Analytics from "../components/Analytics.astro";
+import Analytics from "@/components/Analytics.astro";
+import BuyMeACoffee from "@/components/BuyMeACoffee.astro";
 
 interface Props {
 	meta: SiteMeta;
@@ -32,6 +33,7 @@ const {
 			<slot />
 		</main>
 		<Footer />
+		<BuyMeACoffee />
 		<script is:inline type="speculationrules">
 			{
 				"prefetch": [
@@ -52,17 +54,5 @@ const {
 				]
 			}
 		</script>
-		<!-- Buy Me a Coffee Widget -->
-		<script
-			data-name="BMC-Widget"
-			data-cfasync="false"
-			src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
-			data-id="stavroskarelis"
-			data-description="Support me on Buy me a coffee!"
-			data-message=""
-			data-color="#BD5FFF"
-			data-position="Right"
-			data-x_margin="18"
-			data-y_margin="18"></script>
 	</body>
 </html>

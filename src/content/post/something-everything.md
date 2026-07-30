@@ -4,7 +4,7 @@ description: A placeholder pinned post with lorem ipsum text for testing the pin
 publishDate: "2026-06-25T08:00:00Z"
 tags: [start, something, everything, pinned]
 draft: false
-pinned: true
+pinned: false
 ---
 
 Every once in a while, life reaches a strange checkpoint.

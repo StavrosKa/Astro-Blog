@@ -4,6 +4,7 @@ description: "Step-by-step guide on how to create a free professional email like
 publishDate: "2026-07-04T08:00:00Z"
 tags: [cloudflare, email, dns, web-development, routing]
 draft: false
+pinned: true
 ---
 
 > *"You can set up a fully working professional email using Cloudflare Email Routing."*

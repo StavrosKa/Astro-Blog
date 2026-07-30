@@ -4,7 +4,7 @@ description: A humorous look at the modern developer mindset, overthinking, endl
 publishDate: "2026-06-26T08:00:00Z"
 tags: [software-development, productivity, developers, wayof, thinking, pinned]
 draft: false
-pinned: true
+pinned: false
 ---
 
 > *"People think developers spend all day writing code."*
