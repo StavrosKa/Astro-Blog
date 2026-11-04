@@ -41,7 +41,9 @@ export async function GET(context: APIContext) {
 			month: "long",
 			weekday: "long",
 		});
-		const svg = await satori(ogMarkup(title, postDate), ogOptions);
+		// satori-html produces Satori-compatible markup with a separate VNode type.
+		const markup = ogMarkup(title, postDate) as unknown as Parameters<typeof satori>[0];
+		const svg = await satori(markup, ogOptions);
 		pngBuffer = await sharp(Buffer.from(svg)).png().toBuffer();
 		writeToCache(title, pubDate, pngBuffer);
 	}
