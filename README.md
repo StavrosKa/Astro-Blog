@@ -54,7 +54,7 @@ GitHub shows the latest commit message beside each file or folder. Older labels 
 ### Publishing an article
 
 1. Add a Markdown file to `src/content/post/` using the frontmatter template below. Use an ISO date such as `2026-11-04` and set `draft: false` when ready to publish.
-2. Put article media in `public/images/` and reference it with a site path such as `/images/folioecho-tour.gif`, never a local computer path.
+2. Put article media in `public/images/` and reference it with a site path such as `/images/folioecho-tour-3-slides.gif`, never a local computer path.
 3. Use the site's `:::tip` or `:::note` directives for callouts.
 4. Install dependencies with `npm ci`, then run `npx astro check` and `npm run build`.
 5. Commit with a descriptive message, such as `Publish FolioEcho hackathon article and walkthrough GIF`, and push to `main` for the connected Netlify deployment.

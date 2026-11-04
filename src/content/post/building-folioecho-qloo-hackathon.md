@@ -66,4 +66,4 @@ FolioEcho is still a prototype. Whether its ideas help real bookshops reach new 
 
 You can try it at [folioecho.netlify.app](https://folioecho.netlify.app/) and read the code on [GitHub](https://github.com/StavrosKa/folioecho).
 
-<img src="/images/folioecho-tour.gif" alt="FolioEcho walkthrough showing the overview, catalogue, discovery studio, cultural map and event planner" width="1440" height="860" loading="lazy" decoding="async" />
+<img src="/images/folioecho-tour-3-slides.gif" alt="FolioEcho walkthrough showing the overview, catalogue and event planner" width="1200" height="720" loading="lazy" decoding="async" />
